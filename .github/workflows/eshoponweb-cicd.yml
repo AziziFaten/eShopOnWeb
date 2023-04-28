@@ -9,7 +9,7 @@ env:
   LOCATION: francecentral
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 94902283-4cc2-4de2-a89e-a1d1376b7389
-  WEBAPP-NAME: az400-webapp-gitaction
+  WEBAPP-NAME: az400-webapp-fpr
 
 
 jobs:
